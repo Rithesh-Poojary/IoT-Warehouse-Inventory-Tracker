@@ -36,5 +36,9 @@ Methodology
 - An Android app connected to the same Firebase database allows for real-time monitoring of inventory status.
 
 Results
-
 The system successfully automates product verification, slot allocation, and inventory tracking. It demonstrated responsiveness, accuracy in identifying and placing products, and power efficiency through a sleep/wake feature. Firebase integration ensured real-time data synchronization between the microcontroller and the mobile app, which provided immediate feedback and extended accessibility.
+
+Future Improvements
+- Scaling the system to support multiple conveyor lanes for larger warehouses.
+- Adding more precise sensors for enhanced product detection.
+- Integrating a motorized conveyor belt for fully automated product movement.
